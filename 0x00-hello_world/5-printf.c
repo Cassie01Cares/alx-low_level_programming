@@ -1,8 +1,12 @@
-#include <stdio.h>                                                                                                                      
-/**                                                                                                                                     
- *  * main - Entry                                                                                                                         
- *   * Return: Always 0                                                                                                                     
- *    */ 
+#include <stdio.h>
+
+/**
+ *  * main - The entry point of all C program
+ *   * @void: Doesn't take any parameters
+ *    *
+ *     * Return: It returns zero upon successful run of program
+ *      */
+
 int main(void)
 {
 		printf("with proper grammar, but the outcome is a piece of art,\n");
