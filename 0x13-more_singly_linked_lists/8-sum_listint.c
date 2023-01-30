@@ -20,8 +20,3 @@ int sum_listint(listint_t *head)
 
 	return (sum);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Pri
